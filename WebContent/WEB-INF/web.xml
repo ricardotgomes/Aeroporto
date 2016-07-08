@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <env-entry>
+    <env-entry-name>banco</env-entry-name>
+    <env-entry-type>java.lang.String</env-entry-type>
+    <env-entry-value>MYSQL</env-entry-value>
+  </env-entry>
+</web-app>
